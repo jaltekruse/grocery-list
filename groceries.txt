@@ -3,3 +3,9 @@ grocery list
 produce:
     - appples
     - carrots
+
+dry goods:
+    - pasta
+    - rice
+    - nuts
+    - beans
