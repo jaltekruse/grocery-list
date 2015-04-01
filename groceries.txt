@@ -8,3 +8,4 @@ dry goods:
     - pasta
     - rice
     - nuts
+    - beans
